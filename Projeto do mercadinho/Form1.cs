@@ -96,21 +96,28 @@ namespace Projeto_do_mercadinho
             DateTime VencimentoParcela = DataParcelasConvertida;
 
 
-
+            
             if (DataPagamentoConvertida > VencimentoParcela)
             {
                 // Calculando a diferença em meses
                 int DiferençaMeses = ((DataPagamentoConvertida.Year - VencimentoParcela.Year) * 12) + DataPagamentoConvertida.Month - VencimentoParcela.Month;
-                textBox4.AppendText("Valor DiferençaMeses: " + DiferençaMeses);
                 // Ajustando o valor da parcela com base no número de meses em atraso
+                ValorParcelaReajustado = ValorParcela;
                 for (int p = 1; p <= DiferençaMeses; p++)
                 {
-                    ValorParcelaReajustado += ValorParcela * 1.03f; // Reajuste de 3% por mês
+                    
+                    ValorParcelaReajustado = ValorParcelaReajustado * 1.03f; // Reajuste de 3% por mês
                 }
 
                 string ValorParcelaReajustadoFormatado = String.Format("{0:F2}", ValorParcelaReajustado);
                 label8.Text = "Parcela em atraso - Valor reajustado: R$ " + ValorParcelaReajustadoFormatado;
+                
             }
+
+            
+
+
+
 
             // Verifique se há pelo menos uma linha no textBox4
             if (textBox4.Lines.Length > 0)
@@ -135,6 +142,7 @@ namespace Projeto_do_mercadinho
             ValorCompraTotal = ValorCompraTotal - ValorParcela; //subtrai o valor da compra total ao pagar a parcela
             string ValorCompraTotalFormatado = String.Format("{0:F2}", ValorCompraTotal);
             label6.Text = ("Total a pagar: R$" + ValorCompraTotalFormatado);
+            VencimentoParcela = VencimentoParcela.AddMonths(1); //Atualiza o mes do vencimento
         }
 
 

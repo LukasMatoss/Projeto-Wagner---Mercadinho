@@ -53,3 +53,21 @@ C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\
 C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.pdb
 C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.genruntimeconfig.cache
 C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\ref\Projeto do mercadinho.dll
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.exe
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.deps.json
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.runtimeconfig.json
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.runtimeconfig.dev.json
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.dll
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.pdb
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto_do_mercadinho.Form1.resources
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto_do_mercadinho.Properties.Resources.resources
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.csproj.GenerateResource.cache
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.AssemblyInfoInputs.cache
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.AssemblyInfo.cs
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.csproj.CoreCompileInputs.cache
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.dll
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\refint\Projeto do mercadinho.dll
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.pdb
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.genruntimeconfig.cache
+E:\2º ANO\3º BIMESTRE\Projetos\PVB\Projeto do mercadinho\obj\Debug\net5.0-windows\ref\Projeto do mercadinho.dll
