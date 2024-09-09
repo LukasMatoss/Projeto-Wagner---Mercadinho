@@ -140,7 +140,7 @@ namespace Projeto_do_mercadinho
             textBox4.Name = "textBox4";
             textBox4.ReadOnly = true;
             textBox4.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            textBox4.Size = new System.Drawing.Size(416, 194);
+            textBox4.Size = new System.Drawing.Size(492, 194);
             textBox4.TabIndex = 10;
             textBox4.TextChanged += textBox4_TextChanged;
             // 
@@ -176,6 +176,7 @@ namespace Projeto_do_mercadinho
             button2.TabIndex = 13;
             button2.Text = "Pagar as parcelas";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // textBox5
             // 
@@ -200,11 +201,12 @@ namespace Projeto_do_mercadinho
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new System.Drawing.Point(698, 174);
+            label8.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            label8.ForeColor = System.Drawing.Color.Red;
+            label8.Location = new System.Drawing.Point(12, 512);
             label8.Name = "label8";
-            label8.Size = new System.Drawing.Size(38, 15);
+            label8.Size = new System.Drawing.Size(0, 28);
             label8.TabIndex = 16;
-            label8.Text = "label8";
             label8.Click += label8_Click;
             // 
             // Form1

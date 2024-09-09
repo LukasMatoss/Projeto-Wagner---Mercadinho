@@ -35,3 +35,21 @@ C:\Users\USUARIO\Documents\Me.exe\Ensino Médio Técnico\2º ANO\Matérias Técn
 C:\Users\USUARIO\Documents\Me.exe\Ensino Médio Técnico\2º ANO\Matérias Técnico\Materias epecificas\Programação visual básica\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.pdb
 C:\Users\USUARIO\Documents\Me.exe\Ensino Médio Técnico\2º ANO\Matérias Técnico\Materias epecificas\Programação visual básica\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\Me.exe\Ensino Médio Técnico\2º ANO\Matérias Técnico\Materias epecificas\Programação visual básica\Projeto do mercadinho\obj\Debug\net5.0-windows\ref\Projeto do mercadinho.dll
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.exe
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.deps.json
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.runtimeconfig.json
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.runtimeconfig.dev.json
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.dll
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\bin\Debug\net5.0-windows\Projeto do mercadinho.pdb
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto_do_mercadinho.Form1.resources
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto_do_mercadinho.Properties.Resources.resources
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.dll
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\refint\Projeto do mercadinho.dll
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.pdb
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\Projeto do mercadinho.genruntimeconfig.cache
+C:\Users\lucas\Downloads\Projeto-Wagner---Mercadinho-main\Projeto do mercadinho\obj\Debug\net5.0-windows\ref\Projeto do mercadinho.dll
